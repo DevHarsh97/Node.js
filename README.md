@@ -13,6 +13,13 @@ Install Node.js: https://nodejs.org/en/
 7. Input Validation
 8. handling HTTP PUT Requests
 9. Handling HTTP DELETE Requests
+10. Database connection
+11. Create Database
+12. Create Table
+13. Update Table 
+14. Insert Data
+15. Select Data
+16. Delete Data
 
 
 ---  Work with Express.js framework
@@ -39,6 +46,11 @@ export PORT = 5000
 
 --- Used POSTMAN to check the api
 https://www.postman.com/downloads/
+
+--Used MAMP server 
+https://www.mamp.info/en/downloads/
+
+
 
 
 
